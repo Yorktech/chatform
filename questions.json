@@ -1,0 +1,30 @@
+[
+  { 
+    "id": 1, 
+    "text": "Good morning. To start, could you please select your title?", 
+    "type": "select", 
+    "options": ["Mr", "Mrs", "Miss", "Ms", "Dr"] 
+  },
+  { 
+    "id": 2, 
+    "text": "Thank you. Could you please state your full name?", 
+    "type": "text"
+  },
+  { 
+    "id": 3, 
+    "text": "What is the primary objective of your project?", 
+    "type": "text" 
+  },
+  { 
+    "id": 4, 
+    "text": "On a scale of 1 to 5, how would you rate the importance of this project?", 
+    "type": "rating", 
+    "min": 1, 
+    "max": 5
+  },
+  { 
+    "id": 5, 
+    "text": "Finally, who are the key stakeholders involved?", 
+    "type": "text" 
+  }
+]

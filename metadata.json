@@ -1,0 +1,5 @@
+{
+  "name": "Structured Chat Questionnaire",
+  "description": "A professional, chat-like interface to guide users through a predefined set of questions and record their answers. It simulates a chatbot experience for structured data collection.",
+  "requestFramePermissions": []
+}
